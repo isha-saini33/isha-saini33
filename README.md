@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HTML, CSS, JAVASCRIPT and PYTHON<br>👯 I’m looking to collaborate on Web Applications development<br>🌱 I’m currently learning python, c++ and machine learning<br>💬 Ask me about python and web development<br><br>
+🔭 I’m currently working on HTML, CSS, JAVASCRIPT and PYTHON<br>👯 I’m looking to collaborate on Web Applications development<br>🌱 I’m currently learning react and machine learning<br>💬 Ask me about python and web development<br><br>
 
 
 ## 🌐 Socials:
