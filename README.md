@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [link](link)
-
 - 💬 Ask me about **PYTHON,DJANGO,SQL,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **ishasaini84464@gmail.com**
