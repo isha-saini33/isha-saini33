@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **PYTHON,DJANGO,SQL,HTML,CSS,JAVASCRIPT**
 
